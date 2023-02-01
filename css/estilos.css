@@ -1,0 +1,37 @@
+.topo{
+background-color: #a7a7be;
+}
+li {
+    list-style: none;
+    font-size: 25px;
+}
+
+a{
+    color: white;
+    margin-left: 20px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+body{
+    background-color: rgb(185, 180, 180);
+}
+.texto{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+}
+header{
+    background-color: #a7a7be;
+}
+.rodape{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.textinho{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+.saibamais{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
